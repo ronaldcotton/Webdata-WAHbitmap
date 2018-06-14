@@ -1,3 +1,5 @@
+![WSU Vancouver](WSUV.png)
+
 # WAHbitmap
 ## CS482 - Assignment 2 - WSU Vancouver
 ### WAH Bitmap Indexes
@@ -10,8 +12,6 @@ The data output was not binary,  instead our assignment required us to output as
 bitmap.  Our bitmap data was aligned to optimize compression along the table’s columns.  In the case of our schema,
 the uncompressed bitmap was comprised of 16 lines of text with the column width of the file equal to the number of
 entries in the table.
-
-![WSU Vancouver](WSUV.png)
 
 ### Requirements
 Python 3
