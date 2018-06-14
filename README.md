@@ -11,7 +11,7 @@ bitmap.  Our bitmap data was aligned to optimize compression along the table’s
 the uncompressed bitmap was comprised of 16 lines of text with the column width of the file equal to the number of
 entries in the table.
 
-![WSUV.png](https://www.vancouver.wsu.edu/)
+![WSU Vancouver](WSUV.png)
 
 ### Requirements
 Python 3
